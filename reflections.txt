@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+Your response goes here:
+
+  * Although problem solving is part of my job as an I.T. analyst, I’ve learned how to apply some of those skills in the world of web development. I’ve also learned about proper HTML and Readme syntax.
+
+  * Prior to enrolling in this nano degree, I had taken a few basic web development courses in school. For the most part, anything in regards to HTML is a refresher for me.
+
+  * I hadn’t done much with reads files, so that was definitely new. I’d simply choose that since I already felt comfortable with most of the content for this project.
+
+  * I’m a big fan of knowing when to walk away from the computer. There’s nothing less effective than working on code with a frustrated mind!
